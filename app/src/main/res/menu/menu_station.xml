@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.iut_valence.weatherstationproject.StationActivity" >
+
+    <item
+        android:id="@+id/change_station"
+        android:orderInCategory="1"
+        android:title="@string/change_station"
+        app:showAsAction="never"/>
+
+</menu>
